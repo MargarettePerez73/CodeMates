@@ -10,4 +10,4 @@ This project combines learning with entertainment, offering a quiz game with two
 
 This project was made on Visual Studio and consists .csv files.
 
-Video Link:
+Video Link: https://youtu.be/QLLnKZXBq7Q
