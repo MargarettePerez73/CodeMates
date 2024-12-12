@@ -11,4 +11,6 @@ This project combines learning with entertainment, offering a quiz game with two
 This project was made on Visual Studio and consists .csv files.
 
 Video Link: https://youtu.be/QLLnKZXBq7Q
+
+UPDATE: This project has a newer version pushed with more entertaining and appealing look, finally with a GUI, a timer set to 30 seconds per each question of the topic of your choice, recording the scores and name of the player and lastly, the Leaderboard where you can see the names of the users that played the quiz and their scores. 
 Updated Video Link: https://youtu.be/EZrGGRx8xJI
